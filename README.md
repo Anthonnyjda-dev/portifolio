@@ -2,7 +2,7 @@
 
 **Ideias em mente. Código na prática.**
 
-Portfólio pessoal de Anthonny Almeida, desenvolvedor de software júnior e estudante de Sistemas de Informação na Universidade Tiradente (UNIT). Reúne projetos, habilidades, formação e canais de contato em uma interface desenvolvida com React.
+Portfólio pessoal de Anthonny Almeida, estudante de Sistemas de Informação na Universidade Tiradentes (UNIT), com projetos em desenvolvimento de software, integração de sistemas e suporte de TI. Reúne projetos, habilidades, formação e canais de contato em uma interface desenvolvida com React.
 
 O conteúdo foi elaborado a partir do currículo, com fotografia pessoal e identidade visual em tons escuros e verde.
 
@@ -35,6 +35,7 @@ A aplicação é um front-end estático, sem necessidade de back-end, banco de d
 
 | Projeto | Descrição | Código |
 | --- | --- | --- |
+| Squad 13 | Solução colaborativa em Python integrada ao GLPI 11 para consulta de chamados e artigos de conhecimento. | Projeto em andamento |
 | Sergipanidade | Site de turismo que aproxima visitantes das belezas de Sergipe e ajuda a divulgar negócios locais. | [Repositório](https://github.com/Anthonnydev-ops/Sergipa-nidade) |
 | Gerenciador de finanças | Software em React para gerenciar entradas e saídas de valores. | [Repositório](https://github.com/Anthonnydev-ops/Painel-de-Controle-de-Finan-as) |
 | Gerenciador de tarefas | Aplicação de terminal desenvolvida com os fundamentos de Python. | [Repositório](https://github.com/Anthonnydev-ops/Gerenciador-de-Tarefas) |
@@ -87,7 +88,7 @@ Abra o endereço mostrado pelo comando de preview. O preview depende de um build
 .
 ├── public/
 │   ├── anthonny.jpeg                    # Foto exibida no site
-│   ├── curriculo-anthonny-almeida.pdf    # Currículo para download
+│   ├── Curriculo_Anthonny_Almeida.pdf   # Currículo para download
 │   └── favicon.svg                     # Ícone da aba do navegador
 ├── src/
 │   ├── App.jsx                         # Componentes, conteúdo e interações
@@ -114,7 +115,7 @@ As pastas `node_modules/` e `dist/` são geradas durante a instalação e o buil
 | Telefone exibido e link de ligação | Seção de contato em `src/App.jsx` |
 | Cores, fontes e espaçamentos | `src/styles.css`, incluindo as variáveis em `:root` |
 | Foto de apresentação | `public/anthonny.jpeg` |
-| PDF disponível para download | `public/curriculo-anthonny-almeida.pdf` |
+| PDF disponível para download | `public/Curriculo_Anthonny_Almeida.pdf` |
 | Título, descrição e idioma da página | `index.html` |
 | Favicon | `public/favicon.svg` |
 
@@ -138,7 +139,7 @@ A configuração atual considera que o site será servido na raiz do domínio. P
 
 ## Autor
 
-**Anthonny Almeida** — Desenvolvedor de software júnior e estudante de Sistemas de Informação na UNIT.
+**Anthonny Almeida** — Estudante de Sistemas de Informação na UNIT, com foco em desenvolvimento de software e TI.
 
 - [GitHub](https://github.com/Anthonnyjda-dev)
 - [LinkedIn](https://www.linkedin.com/in/anthonnyalmeida)
